@@ -24,6 +24,7 @@ select the desire one
     END
     click element  xpath=//*[@id="search"]/div[1]/div[1]/div/span[3]/div[2]/div[3]/div/div/div/div/div/div[2]/div/div/div[1]
     click button  xpath = //*[@id="a-autoid-10-announce"]
+    wait until page contains  xpath =//*[@id="color_name_2"]
 
     click element  xpath =//*[@id="color_name_2"]
 
