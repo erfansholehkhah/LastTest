@@ -27,7 +27,7 @@ select the desire one
     wait until page contains  xpath =//*[@id="color_name_2"]
 
     click element  xpath =//*[@id="color_name_2"]
-    sleep  5s
+
 
 
 
