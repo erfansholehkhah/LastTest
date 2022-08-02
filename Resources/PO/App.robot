@@ -13,7 +13,7 @@ search for the item
     element should be visible  twotabsearchtextbox
     input text  twotabsearchtextbox  iphone 10s
     click element  nav-search-submit-button
-    sleep  5s
+    sleep  6s
 
 
 

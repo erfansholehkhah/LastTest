@@ -15,7 +15,7 @@ ${url} =  https://amazon.com
 *** Test Cases ***
 
 Take the itam
-    [Tags]   Smoke
+    [Tags]   Smoke  test
 
     search for the item
     select the desire one
